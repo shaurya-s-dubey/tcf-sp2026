@@ -2,6 +2,10 @@
 
 **Objective**: Start build your own personal website using the modern frontend stack: Next.js, TypeScript, and Tailwind CSS.
 
+**Inspiration**: Feel free to check out this great website that displays several amazing developer portfolios! https://webofdevs.com/ . Use this website for inspiration.
+
+**Future work**: This homework is meant to get the ball rolling. Once you get started, you can look into vercel as a way of deploying your website (for free) and look into some tutorials to learn more about NextJS and it's capabilities.
+
 ## The Stack
 
 Before you start, here is what you will be using:
@@ -22,9 +26,6 @@ npx create-next-app@latest mywebsite --typescript --tailwind
 
 these were my answers to the questions asked after you run this command (for some more clarity):
 <img width="1452" height="242" alt="image" src="https://github.com/user-attachments/assets/8b7347f1-fd91-4b02-9190-92f6e11bf118" />
-
-
-When prompted, you can press **Enter** to accept the defaults for any other options (like `src/` directory, App Router, etc.).
 
 This will create a new folder named `mywebsite` containing your Next.js project.
 
