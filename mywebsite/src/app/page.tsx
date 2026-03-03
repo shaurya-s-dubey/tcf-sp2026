@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
 
         {/* Bio */}
-        <p className="text-lg text-gray-300 leading-relaxed max-w-xl">
+        <p className="text-lg text-gray-300 lealsding-relaxed max-w-xl">
           Computer Science student at Northeastern University (Class of 2029).
           Full stack developer with a passion for web development, machine learning,
           and building interactive applications. Experienced with React, TypeScript,

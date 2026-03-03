@@ -1,0 +1,21 @@
+{
+  "name": "tcf-sp2026",
+  "version": "1.0.0",
+  "description": "> Welcome to TCF! We are incredibly excited to have you guys, and want you to get the absolute most you can out of TCF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaurya-s-dubey/tcf-sp2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shaurya-s-dubey/tcf-sp2026/issues"
+  },
+  "homepage": "https://github.com/shaurya-s-dubey/tcf-sp2026#readme"
+}
